@@ -1,3 +1,5 @@
+// Initial code inspiration for this game came from https://www.instructables.com/The-T-Rex-Game-Chrome-Dino-in-Arduino-Using-OLED-D/
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
