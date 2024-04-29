@@ -1,4 +1,5 @@
 // Initial code inspiration for this game came from https://www.instructables.com/The-T-Rex-Game-Chrome-Dino-in-Arduino-Using-OLED-D/
+// This code has been partially written by ChatGPT & Bing Co-Pilot
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
